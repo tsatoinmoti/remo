@@ -1,0 +1,4 @@
+<code>using System;
+public class SampleFile{
+    int sample = 100;
+}
